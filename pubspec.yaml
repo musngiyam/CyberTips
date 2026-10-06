@@ -1,0 +1,56 @@
+name: jajaja
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.10.4
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  audioplayers: ^6.0.0
+  supabase_flutter: ^2.8.0
+  crypto: ^3.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/bg1.gif
+    - assets/images/char1.gif
+    - assets/images/char2.gif
+    - assets/images/char3.gif
+    - assets/images/quest.gif
+    - assets/images/battleg.png
+    - assets/images/enemy1.gif
+    - assets/images/quest1.gif
+    - assets/images/bg.gif
+    - assets/images/wiz.gif
+    - assets/audio/game_music.wav
+    - assets/audio/walk.mp3
+    - assets/audio/back.mp3
+    - assets/images/story.png
+    - assets/images/ogre.gif
+    - assets/images/cult.gif
+    - assets/images/enemy2.gif
+    - assets/audio/battle.mp3
+    - assets/images/book.png
+    - assets/images/open.png
+    - assets/images/keyq.gif
+    - assets/images/keyy.png
+    - assets/images/bahay.gif
+    - assets/images/errand.gif
+    - assets/images/knights.gif
+    - assets/audio/haru.mp3
+    - assets/images/pc1.gif
+    - assets/images/bro.gif
+    - assets/images/tunnel_entrance.png
